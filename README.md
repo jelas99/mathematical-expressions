@@ -1,4 +1,4 @@
-# Simple Mathematical Expressions
+# Simple Mathematical Expression
 
 This is a basic example of how to use interpreter design pattern to implement a simple mathematical operation!!
 
