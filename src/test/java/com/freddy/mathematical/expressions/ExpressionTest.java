@@ -5,13 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.freddy.mathematical.expressions.DivExpression;
-import com.freddy.mathematical.expressions.DoubleExpression;
-import com.freddy.mathematical.expressions.Expression;
-import com.freddy.mathematical.expressions.ProductExpression;
-import com.freddy.mathematical.expressions.SubExpression;
-import com.freddy.mathematical.expressions.SumExpression;
-
 public class ExpressionTest {
 
 	@Test
